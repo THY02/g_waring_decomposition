@@ -1,1 +1,2 @@
 # g_waring_decomposition
+将n元3d次齐次多项式进行广义华林分解，即分解成d次型的3次方之和
